@@ -22,9 +22,9 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 
   <div>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/MateoSabogal13?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/teosabogal?tab=repositories)
 
-- 📫 Also, you may send a nice letter to **mateo.sabogal@correounivalle.edu.co**
+- 📫 Also, you may send a nice letter to **matsabogal@gmail.com**
 
 </div>
 <br>
@@ -58,9 +58,9 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 <div align="center">
 <h3>Where to find me</h3>
 <p>
-<a href="https://github.com/MateoSabogal13" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://github.com/teosabogal" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/mateocode/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/mateocode" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+<a href="https://www.instagram.com/teosabogals" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 </p>
 </div>
 
@@ -90,6 +90,6 @@ You have finally discovered my Github profile, I was waiting for you! <br>
 </div>
 
 -----
-Credits: [MateoSabogal13](https://github.com/MateoSabogal13)
+Credits: [teosabogal](https://github.com/teosabogal)
 
-Last Edited on: 14/09/2021
+Last Edited on: 14/06/2024
